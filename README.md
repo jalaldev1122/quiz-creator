@@ -43,8 +43,8 @@ OPENAI_API_KEY=sk-your-openai-api-key-here
 ### 1. Clone the Repository
 
 \`\`\`bash
-git clone https://github.com/yourusername/topic-quiz-creator.git
-cd topic-quiz-creator
+git clone https://github.com/jalaldev1122/quiz-creator.git
+cd quiz-creator
 \`\`\`
 
 ### 2. Install Dependencies
@@ -59,7 +59,7 @@ npm install
 1. Go to [MongoDB Atlas](https://www.mongodb.com/atlas)
 2. Create a free account and cluster
 3. Get your connection string
-4. Add it to your `.env.local` file
+4. Add it to your `.env` file
 
 #### Option B: Local MongoDB
 \`\`\`bash
